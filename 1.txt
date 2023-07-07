@@ -1,0 +1,5 @@
+1. escribir - escribir ensayo (prioridad: 1)
+2. leer - novela (prioridad: 2)
+3. pintar - pintar cuadro (prioridad: 3)
+4. dibujar - dibujar perro (prioridad: 3)
+5. MANUALIDADES - MANUALIDADES (prioridad: 3)
